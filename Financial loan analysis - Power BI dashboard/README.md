@@ -6,3 +6,7 @@ Files:
 'Power BI dashboard.pbix' - Dashboard
 'Dashboard images.pdf' - Images of dashboard
 'Testing document' - tested the values populated in power bi with sql queries for more precision.
+
+Tools/skills used and Knowledge gained:
+Microsoft Power BI, DAX, Power Query, Microsoft SQL Server
+Data Analysis, Data Visualization
